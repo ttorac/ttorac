@@ -12,8 +12,6 @@ At the moment, I'm investing in catching up with latest technologies, especially
 * Playing the guitar (maybe piano eventually)
 * Electronics and circuits
 
-<br />
-
 <!-- Technologies and tools -->
 ## Language and tools I've worked with:
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/html5-iconfinder_badge-html-5_317755.svg" /><!-- [html5] -->
