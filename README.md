@@ -1,7 +1,7 @@
 <!-- About me -->
 # Hi there 👋
 
-My name is Thiago, I am software Developer. A few years ago I took a break from Software Development and went to College for a Electronics Engineering Technology course, however, I still love working with software development and I am currently working my way back into the IT industry.
+My name is Thiago, I am software Developer. A few years ago I took a break from Software Development and went to College for an Electronics Engineering Technology course, however, I still love working with software development and I am currently working my way back into the IT industry.
 
 The gross of my experience comes from coding Java, though I feel quite comfortable working with databases or coding front-end interfaces.
 At the moment I'm investing in catching up with the latest technologies, especially the ones that are trending and are fun work with.
