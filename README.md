@@ -16,15 +16,15 @@ At the moment, I'm investing in catching up with latest technologies, especially
 
 <!-- Technologies and tools -->
 ## Language and tools I've worked with:
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/html5-iconfinder_badge-html-5_317755.svg" />]<!-- [html5] -->
-[<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/css3-iconfinder_badge-css-3_317756.svg" />]<!-- [css3] -->
-[<img align="left" alt="JS" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/js-iconfinder_187_Js_logo_logos_4373213.svg" />]<!-- [js] -->
-[<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/java-iconfinder_181_Java_logo_logos_4373217.svg" />]<!-- [java] -->
-[<img align="left" alt="React.js" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/react-iconfinder_Reactjs_logo_1174949.svg" />]<!-- [reactjs] -->
-[<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/git-iconfinder_social_media_social_media_logo_git_2993773.svg" />]<!-- [git] -->
-[<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/linux-iconfinder_logo_brand_brands_logos_linux_2993682.svg" />]<!-- [linux] -->
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/html5-iconfinder_badge-html-5_317755.svg" /><!-- [html5] -->
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/css3-iconfinder_badge-css-3_317756.svg" /><!-- [css3] -->
+<img align="left" alt="JS" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/js-iconfinder_187_Js_logo_logos_4373213.svg" /><!-- [js] -->
+<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/java-iconfinder_181_Java_logo_logos_4373217.svg" /><!-- [java] -->
+<img align="left" alt="React.js" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/react-iconfinder_Reactjs_logo_1174949.svg" /><!-- [reactjs] -->
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/git-iconfinder_social_media_social_media_logo_git_2993773.svg" /><!-- [git] -->
+<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/linux-iconfinder_logo_brand_brands_logos_linux_2993682.svg" /><!-- [linux] -->
 <!-- [<img align="left" alt="Database" width="32px" src="assets/icons/" />][database] -->
-[<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/vsc-Visual_Studio_Code_1.35_icon.svg" />]<!-- [vsc] -->
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/vsc-Visual_Studio_Code_1.35_icon.svg" /><!-- [vsc] -->
 
 <!--
 -HTML
@@ -42,7 +42,7 @@ At the moment, I'm investing in catching up with latest technologies, especially
 
 <!-- Reach out -->
 ## If you wish to connect with me:
-[<img align="left" alt="Database" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/linkedin-iconfinder_social_media_applications_14-linkedin_4102586.svg" />][linkedin]
+[<img align="left" alt="Linkedin Profile" width="32px" src="https://raw.githubusercontent.com/ttorac/ttorac/master/assets/icons/linkedin-iconfinder_social_media_applications_14-linkedin_4102586.svg" />][linkedin]
 
 <!-- 
 -Linkedin
