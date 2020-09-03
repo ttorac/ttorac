@@ -14,7 +14,7 @@ At the moment, I'm investing in catching up with latest technologies, especially
 <br />
 
 ## Language and tools I've worked with:
-[<img align="left" alt="HTML5" width="32px" src="assets/icons/html5-iconfinder_badge-html-5_317755.svg" />][html5]
+[<img align="left" alt="HTML5" width="32px" src="ttorac/assets/icons/html5-iconfinder_badge-html-5_317755.svg" />][html5]
 [<img align="left" alt="CSS3" width="32px" src="assets/icons/css3-iconfinder_badge-css-3_317756.svg" />][css3]
 [<img align="left" alt="JS" width="32px" src="assets/icons/js-iconfinder_187_Js_logo_logos_4373213.svg" />][js]
 [<img align="left" alt="Java" width="32px" src="assets/icons/java-iconfinder_181_Java_logo_logos_4373217.svg" />][java]
