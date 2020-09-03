@@ -7,10 +7,10 @@ The gross of my experience comes from coding Java, though I feel quite comfortab
 At the moment, I'm investing in catching up with latest technologies, especially the ones that are trending and are fun to code.
 
 ## Here are a few thing that I'm really passionate about:
--CTF challenges
--Game development
--Playing the guitar (maybe piano eventually)
--Electronics and circuits
+* CTF challenges
+* Game development
+* Playing the guitar (maybe piano eventually)
+* Electronics and circuits
 
 <br />
 
@@ -39,6 +39,7 @@ At the moment, I'm investing in catching up with latest technologies, especially
 -->
 
 <br />
+<br />
 
 <!-- Reach out -->
 ## If you wish to connect with me:
@@ -48,6 +49,7 @@ At the moment, I'm investing in catching up with latest technologies, especially
 -Linkedin
 -->
 
+<br />
 <br />
 
 <!-- projects -->
